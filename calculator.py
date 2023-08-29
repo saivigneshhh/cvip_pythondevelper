@@ -3,9 +3,6 @@ print("Please select operation -\n" \
         "2. Subtract\n" \
         "3. Multiply\n" \
         "4. Divide\n")
- 
- 
-# Take input from the user
 select = int(input("Select operations form 1, 2, 3, 4 :"))
  
 number_1 = int(input("Enter first number: "))
